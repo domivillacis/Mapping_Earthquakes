@@ -11,3 +11,5 @@ To better identify the weakest and strongest earthquakes on our map, we created 
 Three types of tile layers were created to display the map view, such as streets, satellite, and darkness.
 
 Finally, we added a popup to display the magnitude and location of the earthquake.
+
+<img width="1470" alt="Screenshot 2023-01-08 at 22 50 47" src="https://user-images.githubusercontent.com/112814924/211238404-7d1fd717-1a53-4c77-a816-958f6f8fbc3c.png">
